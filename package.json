@@ -28,7 +28,7 @@
 	},
 	"homepage": "https://github.com/Tomotoes/drivingSchool#readme",
 	"devDependencies": {
-		"jquery": "^3.2.1"
+		"jquery": "^3.5.0"
 	},
 	"dependencies": {
 		"ejs-compiled-loader": "^1.1.0",
